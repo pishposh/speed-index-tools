@@ -1,0 +1,17 @@
+{
+  "name": "speed-index-tools",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "argparse": "^1.0.9",
+    "image-size": "^0.6.1",
+    "puppeteer": "git+https://github.com/GoogleChrome/puppeteer.git#3bf18f26a2c3b1f4e37e0cf39da1950bdaeb6b83",
+    "sharp": "^0.18.4",
+    "speedline": "^1.2.1",
+    "tmp": "0.0.33"
+  }
+}
